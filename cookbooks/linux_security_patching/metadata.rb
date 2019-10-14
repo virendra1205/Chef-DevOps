@@ -1,0 +1,12 @@
+name 'linux_security_patching'
+maintainer 'Virendra Yadav'
+maintainer_email 'viren.v.yadav@gmail.com'
+license 'all_rights'
+description 'Installs/Configures linux_security_patching'
+long_description 'Installs/Configures linux_security_patching'
+version '0.1.0'
+support 'centos'
+support 'rhel'
+support 'oracle'
+
+issues_url 'https://github.com/virendra1205/Chef-DevOps/issues'
